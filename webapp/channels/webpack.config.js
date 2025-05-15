@@ -198,6 +198,8 @@ var config = {
                 {from: 'src/images/purchase_alert.png', to: 'images'},
                 {from: '../node_modules/pdfjs-dist/cmaps', to: 'cmaps'},
                 {from: 'src/components/initial_loading_screen/initial_loading_screen.css', to: 'css'},
+                {from: 'src/images/custom/daakiaLogo.svg', to: 'images/custom'},
+                {from: 'src/images/custom/daakiasmallLogo.svg', to: 'images/custom'},
             ],
         }),
 
